@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello, I'm Keith!
+<a href="https:/www.linkedin.com/in/keith-fecteau-jr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**KeithFecteau/KeithFecteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a third-year student majoring in cybersecurity. I have a profound interest in technology and a dedication to learning.
+
+
+
+## Skills
+
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Active Directory          | <a href="https://google.com">Detection Lab</a>|
+
+
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+
+</div>
