@@ -12,7 +12,7 @@ I am a third-year student majoring in cybersecurity. I have a profound interest 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory          | <a href="[(https://github.com/KeithFecteau/Activedirectorylab)]">AD Lab</a>|
+| Active Directory          |  <a href="https://github.com/KeithFecteau/Activedirectorylab">Detection Lab</a>||
 
 
 
